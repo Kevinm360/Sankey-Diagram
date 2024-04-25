@@ -1,3 +1,6 @@
-# Sankey-Diagram
-This project focuses on visualizing the progression of patient conditions through Sankey diagrams, which are effective for displaying multiple flows and how they intertwine across stages. The script processes patient data to map transitions between various medical conditions and treatments, highlighting the pathways commonly followed and their frequencies.
-This tool is particularly useful for healthcare data analysts and medical researchers looking to improve patient care strategies and understand treatment effectiveness across various conditions.
+# Sankey Diagram of Patient Condition Journeys
+This diagram illustrates the flow and transition between different health conditions over time, based on data collected from the Harvard dataverse.
+
+As you can see, each colored link represents a transition from one condition to another, with the thickness of each link proportional to the number of patients making that transition. The colors help differentiate between various types of transitions, making the data easier to interpret at a glance.
+
+This visualization helps us quickly identify common pathways in patient treatment and condition progression, providing insights that can guide our future healthcare strategies and interventions. 
